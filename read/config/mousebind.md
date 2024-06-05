@@ -25,7 +25,9 @@ parent: 設定
 
 | 設定檔路徑 |
 | ----------- |
-|  |
+| [~/.config/kwinrc](https://github.com/samwhelp/fedora-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L43-L48) |
+
+
 
 
 ## 視窗內容區塊
@@ -65,6 +67,12 @@ parent: 設定
 | `[滑鼠滾輪向上捲動]`        | 切換到上一個工作空間  |
 | `[滑鼠滾輪向下捲動]`        | 切換到下一個工作空間  |
 | `[滑鼠中鍵單擊]`            | 顯示工作空間選單      |
+
+
+| 設定檔路徑 |
+| ----------- |
+| [~/.config/plasma-org.kde.plasma.desktop-appletsrc](https://github.com/samwhelp/fedora-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc#L1-L6) |
+
 
 
 
