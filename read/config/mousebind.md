@@ -61,6 +61,10 @@ parent: 設定
 
 ## 桌面
 
+| 設定檔路徑 |
+| ----------- |
+| [~/.config/plasma-org.kde.plasma.desktop-appletsrc](https://github.com/samwhelp/fedora-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc#L1-L6) |
+
 | 滑鼠按鍵組合                |  功能                 |
 | --------------------------- | --------------------- |
 | `[滑鼠右鍵單擊]`            | 顯示主要功能選單      |
@@ -69,15 +73,11 @@ parent: 設定
 | `[滑鼠中鍵單擊]`            | 顯示工作空間選單      |
 
 
-| 設定檔路徑 |
-| ----------- |
-| [~/.config/plasma-org.kde.plasma.desktop-appletsrc](https://github.com/samwhelp/fedora-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc#L1-L6) |
-
-
 
 
 ## 相關連結
 
 | 相關連結 |
 | ------- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-kde-plasma/read/config/keybind.html) |
 | System Modeling / [滑鼠按鍵組合](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-mousebind-common) |
