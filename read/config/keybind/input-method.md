@@ -9,12 +9,9 @@ grand_parent: 設定
 
 # 切換輸入法
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/fedora-kde-plasma-adjustment/tree/main/prototype/main/demo-config/keybind/demo-keybind-mode-dolphin)
-
-
 | 按鍵組合          | 功能           |
 | ----------------- | -------------- |
 | `Ctrl + Space` | 切換輸入法 |
 
 
-> 我個人慣用的「中文輸入法」是「[fcitx5-chewing](https://samwhelp.github.io/note-about-ubuntu/read/subject/im/fcitx5/fcitx5-chewing.html)」。
+> 我個人慣用的「中文輸入法」是「[新酷音輸入法 (fcitx5-chewing)](https://samwhelp.github.io/note-about-fedora-kde-plasma/read/subject/input-method/fcitx5/module/fcitx5-chewing.html)」。
