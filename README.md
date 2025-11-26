@@ -9,9 +9,6 @@
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-fedora-kde-plasma/read/cheatsheet/keybind.html)
-
-
 
 
 ## 主題
@@ -31,15 +28,18 @@
 
 | 微調腳本 |
 | -------- |
-| [Fedora Kde Plasma](https://github.com/samwhelp/fedora-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Fedora Kde Plasma Config](https://github.com/samwhelp/fedora-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
+| [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
 
 ## 按鍵綁定
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-fedora-kde-plasma/read/cheatsheet/keybind.html)
+
 | 按鍵綁定 |
-| --- |
+| ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-kde-plasma/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-kde-plasma/read/config/mousebind.html) |
 
